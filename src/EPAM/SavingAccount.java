@@ -26,6 +26,7 @@ class SavingAccount implements BankAccount {
 	}
 }
 
+
 class LoanAccount implements BankAccount {
 	double accbalance;
 
